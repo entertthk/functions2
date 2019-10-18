@@ -1,0 +1,6 @@
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojResolveAssemblyReference.cache
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\opilane\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

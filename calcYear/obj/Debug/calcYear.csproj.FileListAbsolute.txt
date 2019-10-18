@@ -1,0 +1,5 @@
+C:\Users\opilane\source\repos\ConsoleApp10\calcYear\bin\Debug\calcYear.exe
+C:\Users\opilane\source\repos\ConsoleApp10\calcYear\bin\Debug\calcYear.pdb
+C:\Users\opilane\source\repos\ConsoleApp10\calcYear\obj\Debug\calcYear.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ConsoleApp10\calcYear\obj\Debug\calcYear.exe
+C:\Users\opilane\source\repos\ConsoleApp10\calcYear\obj\Debug\calcYear.pdb
